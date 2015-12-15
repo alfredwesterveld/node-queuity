@@ -1,0 +1,23 @@
+{
+  "name": "queuity",
+  "version": "0.0.0",
+  "description": "queues",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "queues",
+    "queue"
+  ],
+  "author": "Alfred Westerveld",
+  "license": "ISC",
+  "dependencies": {
+    "node-tick-processor": "^0.0.2"
+  },
+  "devDependencies": {}
+}

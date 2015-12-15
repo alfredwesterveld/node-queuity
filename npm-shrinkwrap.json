@@ -1,0 +1,11 @@
+{
+  "name": "queuity",
+  "version": "0.0.0",
+  "dependencies": {
+    "node-tick-processor": {
+      "version": "0.0.2",
+      "from": "node-tick-processor@",
+      "resolved": "https://registry.npmjs.org/node-tick-processor/-/node-tick-processor-0.0.2.tgz"
+    }
+  }
+}
